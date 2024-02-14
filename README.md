@@ -14,7 +14,7 @@ This project is an ongoing piece of work, meaning that updates and new challenge
 
 This project covers:
 
-* [Setting up your local development environment](00-setting-up-your-development-environment.md)
+* [Setting up your local development environment](00-setting-up-your-local-development-environment.md)
 * [Creating a new empty project](01-creating-a-new-empty-project.md)
 * (Coming soon) Working with dependency managers to add libraries to our project
 * (Coming soon) Writing and running a first (empty) test
