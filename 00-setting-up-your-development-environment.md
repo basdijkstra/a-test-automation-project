@@ -62,4 +62,4 @@ You have now:
 * Set up the package manager to help you manage tools and libraries for your project
 * Set up an IDE to help you write and run code efficiently
 
-Onwards to the next step!
+Onwards to the next step, where we'll [create a new, empty project](01-creating-a-new-empty-project.md) that is going to contain our tests.
