@@ -8,7 +8,7 @@ To be able to write and execute code, you'll need an SDK for the language of you
 
 For most programming languages, setting up the SDK is fairly straightforward. You download the binaries, run an installer or perform the necessary installation instructions, and you should be good to go.
 
-Here are some links to official SDK download sites for the most popular programming languages:
+Here are links to official SDK download sites for some of the most popular programming languages:
 
 * [Java](https://www.oracle.com/java/technologies/downloads/)
 * [C#](https://dotnet.microsoft.com/en-us/download)
@@ -21,4 +21,10 @@ Well, it depends :) The first and best choice is to ask around in your team or o
 
 If you don't get an answer to that question, your safest bet is to choose the latest [LTS (Long-term Support) version](https://en.wikipedia.org/wiki/Long-term_support) for your language.
 
-#### How do I know if the installation was successful?
+#### How do I know if the SDK installation was successful?
+
+Test it! Open a new command prompt or terminal and run the command that displays the currently active version of your SDK.
+
+Example: for C#, you can run `dotnet --version`.
+
+If that displays the version of the SDK you just installed, you're good to go. If not, fix the problem until it does.
