@@ -25,7 +25,10 @@ If you don't get an answer to that question, your safest bet is to choose the la
 
 Test it! Open a new command prompt or terminal and run the command that displays the currently active version of your SDK.
 
-Example: for C#, you can run `dotnet --version`.
+* [Java] `java -version`
+* [C#] `dotnet --version`
+* [Python] `python -version`
+* [JavaScript(Node.JS)] `node -v`
 
 If that displays the version of the SDK you just installed, you're good to go. If not, fix the problem until it does.
 
@@ -53,6 +56,18 @@ Here are some examples of good IDEs:
 * JavaScript: [WebStorm](https://www.jetbrains.com/pycharm/)
 
 And then there's also [Visual Studio Code](https://code.visualstudio.com/), which is a very good multi-purpose IDE, which means you can use it for every language (given that you install the corresponding plugins).
+
+### Version control with Git
+
+Version control plays a major part in software development, and guess what test automation is also software development so you gonna need Git. Many Git GUI clients have Git build in, but you can also choose to use Git via commands. 
+
+Git GUI Client
+* [SourceTree](https://www.sourcetreeapp.com/)
+
+Git via Command line
+* [Git-scm](https://git-scm.com/)
+
+Please note that many development teams have unwritten rules regarding branching and pushing, ask a developer what the team rules are.
 
 ### That's it!
 
