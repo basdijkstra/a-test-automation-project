@@ -29,6 +29,14 @@ This project covers:
 * (Coming soon) Moving reusable components to base classes in our UI tests
 * ... and more
 
+### How is the workshop material presented?
+
+This project will *not* hold your hand through every step. I will not provide you with instructions that tell you exactly what to do and what to type where. The point of this project is to figure things out and build things _yourself_.
+
+I will, however, make sure that there is a logical progression from one step to the next, and I will provide information on the 'why?' and 'what?' (but again, not the 'how?') for every step. Links to relevant learning material will be included where applicable, for your review.
+
+If you're really stuck, by all means have a look at one of the reference implementations for inspiration. The goal, though, is to build a solution yourself. Getting stuck, trying to find out how things work and the frustration that comes with this *is part of the learning process*.
+
 ### What tools can I use for this project?
 
 That's up to you. I deliberately set up this project to be tool- and programming language-agnostic. So, whether you want to use Java, C#, Python, JavaScript with your libraries and test frameworks of choice, or if you want to use low-code tools like [Robot Framework](https://robotframework.org/), it's up to you.
@@ -39,10 +47,14 @@ I will provide reference implementations for some of the most popular languages,
 
 Links to reference implementations will be added here in the future.
 
-### How is the workshop material presented?
+### Can I contribute to this project?
 
-This project will *not* hold your hand through every step. I will not provide you with instructions that tell you exactly what to do and what to type where. The point of this project is to figure things out and build things _yourself_.
+Absolutely! There are several ways to do this:
 
-I will, however, make sure that there is a logical progression from one step to the next, and I will provide information on the 'why?' and 'what?' (but again, not the 'how?') for every step. Links to relevant learning material will be included where applicable, for your review.
+* Provide a reference implementation for the project
+* Submit a pull request containing improvements or additions to the workshop material
+* Spread the word about this project at your company, on social media, or any other place
 
-If you're really stuck, by all means have a look at one of the reference implementations for inspiration. The goal, though, is to build a solution yourself. Getting stuck, trying to find out how things work and the frustration that comes with this *is part of the learning process*.
+### Is this workshop available as an in-house project for my organization?
+
+I am more than happy to discuss options to bring this project to your organization. We can then tailor the content to your specific requirements, and we can perform the exercises _in your context, using your technology stack and applications_. Send me an email at bas[AT]ontestautomation[DOT]com for more details.
