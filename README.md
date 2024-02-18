@@ -43,6 +43,15 @@ That's up to you. I deliberately set up this project to be tool- and programming
 
 I will provide reference implementations for some of the most popular languages, tools and libraries, and I am happy to include yours, too.
 
+### How can I get my work reviewed?
+
+Here are some ideas to get feedback on your code:
+
+* Pair program with a fellow learner while working on the exercises
+* Ask an experienced coworker to have a look at your code
+
+Unfortunately, I don't have the capacity to give detailed feedback to individuals on their code myself.
+
 ### Reference implementations
 
 Links to reference implementations will be added here in the future.
