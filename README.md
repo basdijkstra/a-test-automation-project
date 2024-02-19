@@ -16,7 +16,7 @@ This project covers:
 
 * [Setting up your local development environment](00-setting-up-your-local-development-environment.md)
 * [Creating a new empty project](01-creating-a-new-empty-project.md)
-* (Coming soon) Working with dependency managers to add libraries to our project
+* [Working with dependency managers to add libraries to our project](02-working-with-dependency-managers.md)
 * (Coming soon) Writing and running a first (empty) test
 * (Coming soon) Working with Git and GitHub to bring our code under version control
 * (Coming soon) Running our tests as part of a CI pipeline
