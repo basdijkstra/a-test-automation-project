@@ -40,4 +40,4 @@ You have now:
 * Placed the project in a location on your file system where you can easily find it
 * Renamed the top-level project folder to give it a short but descriptive name
 
-In the next step, we'll [use dependency managers](02-working-with-dependency-managers.md) to add libraries to our project that we're going to need to write our tests.
+In the next step, we'll [use package managers](02-working-with-package-managers.md) to add libraries to our project that we're going to need to write our tests.
