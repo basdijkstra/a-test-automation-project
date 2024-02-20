@@ -15,7 +15,7 @@ Here are some examples of different ways to create a new project for different l
 | -------- | ------------ | ------------- |
 | C# | [Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/create-new-project) (choose 'Class Library') | [dotnet new](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new) |
 | Java | [IntelliJ](https://www.jetbrains.com/help/idea/new-project-wizard.html) | [Maven archetypes](https://maven.apache.org/archetypes/maven-archetype-simple/) |
-| Python | [PyCharm](https://www.jetbrains.com/help/pycharm/creating-empty-project.html) | Just create a folder, that's it |
+| Python | [PyCharm](https://www.jetbrains.com/help/pycharm/creating-empty-project.html) | Create a folder, that's it, although you might want to consider [a virtual environment](https://docs.python.org/3/library/venv.html) |
 | JavaScript / NodeJS | [WebStorm](https://www.jetbrains.com/help/webstorm/creating-projects-in-product.html) | [npm init](https://docs.npmjs.com/cli/v10/commands/npm-init) |
 
 There are many other ways to create a new project, but the ones listed here should have you covered in most cases.
