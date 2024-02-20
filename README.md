@@ -43,6 +43,16 @@ That's up to you. I deliberately set up this project to be tool- and programming
 
 I will provide reference implementations for some of the most popular languages, tools and libraries, and I am happy to include yours, too.
 
+### What if I'm stuck?
+
+Are you stuck? Awesome! That's how you know you're learning something new. Here are some tips to help you get unstuck:
+
+* Ask an experienced coworker for help
+* Pair up with a fellow learner
+* Ask Google / ChatGPT / StackOverflow / ...
+
+If you're really, really stuck and still can't find an answer, please [open an issue](https://github.com/basdijkstra/a-test-automation-project/issues) on this repository and I (or maybe someone else) will gladly have a look at it.
+
 ### How can I get my work reviewed?
 
 Here are some ideas to get feedback on your code:
