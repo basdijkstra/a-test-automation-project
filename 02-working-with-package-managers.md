@@ -30,7 +30,7 @@ The way to do this depends on the language you're using and the package manager 
 
 | Language | How to add a dependency to your project |
 | -------- | --------------------------------------- |
-| Java | Add the dependency to your project definition file (`pom.xml` for Maven, `build.gradle` for Gradle |
+| Java | Add the dependency to your project definition file (`pom.xml` for Maven, `build.gradle` for Gradle) |
 | C# | Use the NuGet Package Manager in Visual Studio, use `dotnet add package` |
 | Python | Use `pip install` |
 | JavaScript | Use `npm install` |
