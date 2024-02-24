@@ -18,7 +18,7 @@ This project covers:
 * [Creating a new empty project](01-creating-a-new-empty-project.md)
 * [Working with package managers to add libraries to our project](02-working-with-package-managers.md)
 * [Writing and running a first test](03-writing-and-running-a-first-test.md)
-* (Coming soon) Working with Git and GitHub to bring our code under version control
+* [Working with Git and GitHub to bring our code under version control]((04-bring-our-code-under-version-control.md))
 * (Coming soon) Running our tests as part of a CI pipeline
 * (Coming soon) Reporting test results in CI
 * (Coming soon) Working with an API testing library
