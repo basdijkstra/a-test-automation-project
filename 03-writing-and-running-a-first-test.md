@@ -24,7 +24,7 @@ In most testing frameworks, a test is 'just' a regular method with some unique p
 
 | Framework | How tests are identified |
 | --------- | ------------------------ |
-| JUnit (Java) | Methods with a `@Test` annotation |
+| JUnit (Java) | Methods with a `@Test` attribute |
 | NUnit (C#) | Methods with a `[Test]` annotation in a class with the `[TestFixture]` annotation |
 | pytest (Python) | Methods with a name starting with `test` |
 | Jest (JavaScript) | Code inside a `test()` block |
