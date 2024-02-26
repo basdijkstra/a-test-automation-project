@@ -52,7 +52,7 @@ Here are some examples of good IDEs:
 | Java | [IntelliJ](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org/ide/) |
 | C# | [Visual Studio](https://visualstudio.microsoft.com/vs/) |
 | Python | [PyCharm](https://www.jetbrains.com/pycharm/) |
-| JavaScript | [WebStorm](https://www.jetbrains.com/pycharm/) |
+| JavaScript | [WebStorm](https://www.jetbrains.com/webstorm/) |
 
 And then there's also [Visual Studio Code](https://code.visualstudio.com/), which is a very good multi-purpose IDE, which means you can use it for every language (given that you install the corresponding plugins).
 
