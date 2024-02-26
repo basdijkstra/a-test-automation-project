@@ -19,7 +19,7 @@ This project covers:
 * [Working with package managers to add libraries to our project](02-working-with-package-managers.md)
 * [Writing and running a first test](03-writing-and-running-a-first-test.md)
 * [Working with Git and GitHub to bring our code under version control](04-bring-our-code-under-version-control.md)
-* (Coming soon) Running our tests as part of a CI pipeline
+* [Running our tests as part of a CI pipeline](05-running-our-tests-in-a-ci-pipeline.md)
 * (Coming soon) Reporting test results in CI
 * (Coming soon) Working with an API testing library
 * (Coming soon) Parameterizing your tests
