@@ -64,7 +64,9 @@ Unfortunately, I don't have the capacity to give detailed feedback to individual
 
 ### Reference implementations
 
-Links to reference implementations will be added here in the future.
+| Link | Language | Test runner | API library | UI library | CI platform |
+| ---- | -------- | ----------- | ----------- | ---------- | ----------- |
+| [Click](https://github.com/basdijkstra/atap-csharp-nunit-restassurednet-playwright) | | C# | NUnit | RestAssured.Net | Playwright | GitHub Actions |
 
 ### Can I contribute to this project?
 
