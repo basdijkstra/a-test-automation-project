@@ -31,7 +31,7 @@ As mentioned in the previous section, a minimal pipeline definition contains a n
 
 For now, I would recommend to at least run your tests every time new code is pushed to the remote repository. This ensures that your tests are run on a regular basis.
 
-For inspiration, here's a link to the pipeline definition for one of the reference implementations, this one based on C# and NUnit and using GitHub Actions as the CI platform (LINK TO FOLLOW).
+For inspiration, [here's a link to the pipeline definition for one of the reference implementations](https://github.com/basdijkstra/atap-csharp-nunit-restassurednet-playwright/blob/step5/.github/workflows/ci.yml), this one based on C# and NUnit and using GitHub Actions as the CI platform.
 
 ### Is that all?
 
