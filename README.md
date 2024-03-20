@@ -20,13 +20,13 @@ This project covers:
 * [Writing and running a first test](03-writing-and-running-a-first-test.md)
 * [Working with Git and GitHub to bring our code under version control](04-bring-our-code-under-version-control.md)
 * [Running our tests as part of a CI pipeline](05-running-our-tests-in-a-ci-pipeline.md)
-* (Coming soon) Reporting test results in CI
-* (Coming soon) Working with an API testing library
+* [Working with an API testing library](06-working-with-an-api-testing-library.md)
 * (Coming soon) Parameterizing your tests
 * (Coming soon) Adding a first UI test
 * (Coming soon) Working with waiting and synchronization strategies
 * (Coming soon) Separating the 'what' from the 'how' in our UI tests
 * (Coming soon) Moving reusable components to base classes in our UI tests
+* (Coming soon) Improve reporting test results in CI
 * ... and more
 
 ### How is the workshop material presented?
