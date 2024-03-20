@@ -1,4 +1,4 @@
-# Working with Git and GitHub to bring our code under version control
+# Step 4: Working with Git and GitHub to bring our code under version control
 
 In the previous step, we have learned how to write and run a first set of (arguably not very sophisticated) tests. Now it's time to share them with the world, while at the same time making sure that something bad happening to our machine doesn't result in a loss of our work. Let's bring our code under version control.
 

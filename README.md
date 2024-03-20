@@ -14,13 +14,13 @@ This project is an ongoing piece of work, meaning that updates and new challenge
 
 This project covers:
 
-* [Setting up your local development environment](00-setting-up-your-local-development-environment.md)
-* [Creating a new empty project](01-creating-a-new-empty-project.md)
-* [Working with package managers to add libraries to our project](02-working-with-package-managers.md)
-* [Writing and running a first test](03-writing-and-running-a-first-test.md)
-* [Working with Git and GitHub to bring our code under version control](04-bring-our-code-under-version-control.md)
-* [Running our tests as part of a CI pipeline](05-running-our-tests-in-a-ci-pipeline.md)
-* [Working with an API testing library](06-working-with-an-api-testing-library.md)
+* Step 0: [Setting up your local development environment](00-setting-up-your-local-development-environment.md)
+* Step 1: [Creating a new empty project](01-creating-a-new-empty-project.md)
+* Step 2: [Working with package managers to add libraries to our project](02-working-with-package-managers.md)
+* Step 3: [Writing and running a first test](03-writing-and-running-a-first-test.md)
+* Step 4: [Working with Git and GitHub to bring our code under version control](04-bring-our-code-under-version-control.md)
+* Step 5: [Running our tests as part of a CI pipeline](05-running-our-tests-in-a-ci-pipeline.md)
+* Step 6: [Working with an API testing library](06-working-with-an-api-testing-library.md)
 * (Coming soon) Parameterizing your tests
 * (Coming soon) Adding a first UI test
 * (Coming soon) Working with waiting and synchronization strategies

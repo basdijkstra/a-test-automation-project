@@ -1,4 +1,4 @@
-# Creating a new, empty project
+# Step 1: Creating a new, empty project
 
 Before we can start writing code, we need to set up a project first. There are many different ways to do this, and the ways to do this also differ from one language and tool set to the next.
 

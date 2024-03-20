@@ -1,1 +1,1 @@
-# Working with an API testing library
+# Step 6: Working with an API testing library

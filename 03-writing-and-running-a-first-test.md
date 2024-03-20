@@ -1,4 +1,4 @@
-# Writing and running a first test
+# Step 3: Writing and running a first test
 
 Now that we've set up our development environment, created a new project and added a unit testing framework, it's time to start writing code: our first tests.
 

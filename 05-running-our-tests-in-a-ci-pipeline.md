@@ -1,4 +1,4 @@
-# Running our tests as part of a CI pipeline
+# Step 5: Running our tests as part of a CI pipeline
 
 In the previous step, we have brought our test code under version control, allowing other developers and automation engineers to contribute to the code we wrote. The next step is to make sure that our tests are run for every new change that is made to the code base, and the most efficient way to do that is to automate the process of running our tests and reporting on the results. Typically, this is done through defining a Continuous Integration (CI) pipeline that takes care of this for us.
 

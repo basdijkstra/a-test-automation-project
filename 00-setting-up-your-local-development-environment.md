@@ -1,4 +1,4 @@
-# Setting up your local development environment
+# Step 0: Setting up your local development environment
 
 Test automation is software development. That means that before you can even start to think about writing and running tests, you'll need to set up a development environment on your machine. This includes completing several steps.
 

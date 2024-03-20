@@ -1,4 +1,4 @@
-# Working with package managers to add libraries to our project
+# Step 2: Working with package managers to add libraries to our project
 
 After we have created a new, empty project, it's time to add the first building block of our test automation solution to it: a unit testing framework.
 
