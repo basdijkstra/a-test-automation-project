@@ -29,6 +29,8 @@ As mentioned in the previous section, a minimal pipeline definition contains a n
 * A step to install the dependencies that are required to run your tests
 * A step to run the tests and report on the results
 
+For now, I would recommend to at least run your tests every time new code is pushed to the remote repository. This ensures that your tests are run on a regular basis.
+
 For inspiration, here's a link to the pipeline definition for one of the reference implementations, this one based on C# and NUnit and using GitHub Actions as the CI platform (LINK TO FOLLOW).
 
 ### Is that all?
@@ -40,6 +42,6 @@ Well, yes and no. There's more, much more to learn about CI systems in general. 
 You have now:
 
 * Defined a Continuous Integration pipeline 'as code'
-* Added CI to your test project
+* Added Continuous Integration to your test project to ensure that your tests are run on a regular basis
 
 In the next step, we are going to add a second type of tests to our project: tests against an HTTP-based API [using a dedicated API testing library](06-working-with-an-api-testing-library.md).
