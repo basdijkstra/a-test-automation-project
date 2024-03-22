@@ -11,7 +11,7 @@ While you could technically use the HTTP libraries that are built into your prog
 | Language | API testing library |
 | -------- | ---------------------- |
 | Java | [REST Assured](https://rest-assured.io) |
-| C# | [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net), [RestSharp](https://restsharp.dev), [MSTest](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest) |
+| C# | [RestAssured.Net](https://github.com/basdijkstra/rest-assured-net), [RestSharp](https://restsharp.dev) |
 | Python | [requests](https://requests.readthedocs.io/en/latest/) |
 | JavaScript | [PactumJS](https://pactumjs.github.io), [Axios](https://axios-http.com/docs/intro) |
 
