@@ -35,8 +35,8 @@ As a next task, let's write a test that submits a new blog post to `https://json
 ```json
 {
     "userId": 1,
-	"title": "My blog post title",
-	"body": "This is the text of my latest blog post."
+    "title": "My blog post title",
+    "body": "This is the text of my latest blog post."
 }
 ```
 
