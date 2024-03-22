@@ -33,6 +33,16 @@ For now, I would recommend to at least run your tests every time new code is pus
 
 For inspiration, [here's a link to the pipeline definition for one of the reference implementations](https://github.com/basdijkstra/atap-csharp-nunit-restassurednet-playwright/blob/step5/.github/workflows/ci.yml), this one based on C# and NUnit and using GitHub Actions as the CI platform.
 
+### Check the test results
+
+After you have committed your CI pipeline definition to your remote repository, it should automatically start a build and run the two tests. Just like on your local machine, one test should pass, and the other one should fail. Take some time to inspect the feedback you get from your CI orchestrator.
+
+### Ignore the failing test
+
+Most testing frameworks give you the option to ignore tests, for example because they need some work that cannot be done right now, or because they fail for as of yet unknown reasons.
+
+Ignore the failing test and commit and push your changes. Check that the CI pipeline runs again and that it now reports only one test, and that that's our passing test. Compare the feedback from this build with the previous one.
+
 ### Is that all?
 
 Well, yes and no. There's more, much more to learn about CI systems in general. That's outside the scope of this project, though. If you want to learn more about GitHub Actions, [here's a great, free video course](https://testautomationu.applitools.com/github-actions-for-testing/) specifically geared towards building test execution pipelines.
@@ -43,5 +53,7 @@ You have now:
 
 * Defined a Continuous Integration pipeline 'as code'
 * Added Continuous Integration to your test project to ensure that your tests are run on a regular basis
+* Learned how to exclude tests from execution by labeling them as 'to be ignored'
+* Learned how your CI reports both failing and passing test runs
 
 In the next step, we are going to add a second type of tests to our project: tests against an HTTP-based API [using a dedicated API testing library](06-working-with-an-api-testing-library.md).
