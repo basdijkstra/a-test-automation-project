@@ -21,6 +21,8 @@ In cases like this, instead of having multiple tests that essentially exercise t
 * Editing existing or adding new test cases is often a matter of editing or adding the data
 * It's immediately clear when reading the code that the test cases exercise the same logic
 
+When you run the parameterized test, your test runner will 'expand' (for lack of a better word) that parameterized test again and interpret it as a separate test for each test case, meaning that if you have 4 examples / test cases, it will run 4 tests, and since all of them are isolated from the others, if test 2 fails, test 3 and 4 will still be executed just as when you would have included them as separate test methods.
+
 Are there any situations where parameterized tests are not a good idea? Yes, of course, especially in the case of full-stack tests through the graphical user interface. In other words, [don't repeat your paths](https://chrismcmahonsblog.blogspot.com/2017/11/ui-test-heuristic-dont-repeat-your-paths.html).
 
 ### Creating parameterized tests
