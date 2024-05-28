@@ -22,6 +22,7 @@ This project covers:
 * Step 5: [Running our tests as part of a CI pipeline](05-running-our-tests-in-a-ci-pipeline.md)
 * Step 6: [Working with an API testing library](06-working-with-an-api-testing-library.md)
 * Step 7: [Parameterizing your tests](07-parameterizing-your-tests.md)
+* Step 8: [Serializing objects to JSON](08-serializing-objects-to-json.md)
 * (Coming soon) Adding a first UI test
 * (Coming soon) Working with waiting and synchronization strategies
 * (Coming soon) Separating the 'what' from the 'how' in our UI tests
