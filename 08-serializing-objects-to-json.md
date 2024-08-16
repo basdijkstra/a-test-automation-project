@@ -39,9 +39,9 @@ The object to create can take different shapes, depending on the programming lan
 
 | Language | API testing library | Serialization built-in | Supported object types |
 | -------- | ------------------- | ---------------------- | ---------------------- |
-| Java | REST Assured | No, but supported by adding popular serialization library to your project classpath | Strongly typed objects, `HashMap` |
-| C# | RestAssured.Net | Yes | Strongly typed objects, `Dictionary`, anonymous objects |
-| Python | requests | Yes | Dictionaries |
+| Java | REST Assured | [No, but supported by adding popular serialization library to your project classpath](https://github.com/rest-assured/rest-assured/wiki/Usage#object-mapping) | Strongly typed objects, `HashMap` |
+| C# | RestAssured.Net | [Yes](https://github.com/basdijkstra/rest-assured-net/wiki/Usage-Guide#serializing-an-object-into-json) | Strongly typed objects, `Dictionary`, anonymous objects |
+| Python | requests | [Yes](https://requests.readthedocs.io/en/latest/user/quickstart/#more-complicated-post-requests) | Dictionaries |
 
 ### Applying object serialization to our test
 
