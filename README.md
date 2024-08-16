@@ -23,7 +23,7 @@ This project covers:
 * Step 6: [Working with an API testing library](06-working-with-an-api-testing-library.md)
 * Step 7: [Parameterizing your tests](07-parameterizing-your-tests.md)
 * Step 8: [Serializing objects to JSON](08-serializing-objects-to-json.md)
-* (Coming soon) Adding a first UI test
+* Step 9: [Adding a first UI test](09-adding-a-first-ui-test.md)
 * (Coming soon) Working with waiting and synchronization strategies
 * (Coming soon) Separating the 'what' from the 'how' in our UI tests
 * (Coming soon) Moving reusable components to base classes in our UI tests
