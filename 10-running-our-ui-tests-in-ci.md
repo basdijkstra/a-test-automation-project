@@ -1,0 +1,1 @@
+# Running our UI tests in a Continuous Integration pipeline
