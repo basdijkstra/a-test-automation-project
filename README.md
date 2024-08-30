@@ -25,9 +25,8 @@ This project covers:
 * Step 8: [Serializing objects to JSON](08-serializing-objects-to-json.md)
 * Step 9: [Adding a first UI test](09-adding-a-first-ui-test.md)
 * Step 10: [Running our UI tests in CI](10-running-our-ui-tests-in-ci.md)
-* (Coming soon) Working with waiting and synchronization strategies
+* Step 11: [Working with waiting and synchronization strategies](11-waiting-and-synchronization-techniques.md)
 * (Coming soon) Separating the 'what' from the 'how' in our UI tests
-* (Coming soon) Moving reusable components to base classes in our UI tests
 * (Coming soon) Improve reporting test results in CI
 * ... and more
 
