@@ -1,0 +1,1 @@
+# Separating the 'what' from the 'how' in our UI tests

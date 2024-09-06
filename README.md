@@ -26,7 +26,7 @@ This project covers:
 * Step 9: [Adding a first UI test](09-adding-a-first-ui-test.md)
 * Step 10: [Running our UI tests in CI](10-running-our-ui-tests-in-ci.md)
 * Step 11: [Working with waiting and synchronization strategies](11-waiting-and-synchronization-techniques.md)
-* (Coming soon) Separating the 'what' from the 'how' in our UI tests
+* Step 12: [Separating the 'what' from the 'how' in our UI tests](12-separating-the-what-from-the-how.md)
 * (Coming soon) Improve reporting test results in CI
 * ... and more
 
