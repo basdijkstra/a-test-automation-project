@@ -27,6 +27,7 @@ This project covers:
 * Step 10: [Running our UI tests in CI](10-running-our-ui-tests-in-ci.md)
 * Step 11: [Working with waiting and synchronization strategies](11-waiting-and-synchronization-techniques.md)
 * Step 12: [Separating the 'what' from the 'how' in our UI tests](12-separating-the-what-from-the-how.md)
+* Step 13: [Further improvements for our code](13-further-improvements-for-our-code.md)
 * (Coming soon) Improve reporting test results in CI
 * ... and more
 
