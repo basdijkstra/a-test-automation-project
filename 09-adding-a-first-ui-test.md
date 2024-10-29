@@ -70,4 +70,4 @@ You have now:
 
 You might have noticed that it was a bit more work compared to the unit and API tests we wrote in the previous steps. That's exactly what I was talking about when I said that this type of tests is the hardest to write! And there's much more to explore and learn about UI tests.
 
-In the next step, we are going to learn how to [run these tests as part of our CI pipeline](09-running-our-ui-tests-in-ci.md). This takes a little more effort than it took us to run unit and API tests in CI, and that's why I'm dedicating an entire step to the subject.
+In the next step, we are going to learn how to [run these tests as part of our CI pipeline](10-running-our-ui-tests-in-ci.md). This takes a little more effort than it took us to run unit and API tests in CI, and that's why I'm dedicating an entire step to the subject.
