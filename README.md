@@ -67,6 +67,7 @@ Unfortunately, I don't have the capacity to give detailed feedback to individual
 | Link | Language | Test runner | API library | UI library | CI platform |
 | ---- | -------- | ----------- | ----------- | ---------- | ----------- |
 | [Click](https://github.com/basdijkstra/atap-csharp-nunit-restassurednet-playwright) | C# | NUnit | RestAssured.Net | Playwright | GitHub Actions |
+| [Click](https://github.com/topsycreed/new-java-framework) | Java | JUnit 5 | Rest Assured | Selenium | GitHub Actions, Jenkins |
 
 ### Can I contribute to this project?
 
